@@ -4,5 +4,6 @@ public class ClassEstudo {
             system.debug('Teste Dois');
 			system.debug('Teste Tres');
             system.debug('Teste Quatro');
+			system.debug('BugFIX');
         }
 }
