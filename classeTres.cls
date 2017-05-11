@@ -14,6 +14,8 @@ public class ClassEstudo {
 			system.debug('Teste Tres');
             system.debug('Teste Quatro');
 			system.debug('Desenvolvendo Funcionalidade normalmente');
-			system.debug('BugFIX');
+			system.debug('BugFIX + Teste Amend');
+			system.debug('BugFIX + Teste Amend Dois');
+			system.debug('BugFIX + Teste Amend Tres');
         }
 }
