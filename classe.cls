@@ -6,6 +6,7 @@ public class ClassEstudo {
             system.debug('Teste Quatro');
 	    system.debug('Teste Cinco');
 	    system.debug('Teste Seis');
+            system.debug('Teste Sete');
 	    system.deubg('Teste Merge');
         }
 		
