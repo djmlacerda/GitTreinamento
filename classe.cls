@@ -8,6 +8,7 @@ public class ClassEstudo {
 	    system.debug('Teste Seis');
             system.debug('Teste Sete');
 	    system.deubg('Teste Merge');
+	    system.deubg('Teste Merge Dois');
         }
 		
 		private void printTextDois (){
