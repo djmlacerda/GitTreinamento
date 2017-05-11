@@ -5,5 +5,7 @@ public class ClassEstudo {
 			system.debug('Teste Tres');
             system.debug('Teste Quatro');
 			system.debug('Desenvolvendo Funcionalidade normalmente');
+			system.debug('BugFIX');
+
         }
 }
