@@ -16,7 +16,5 @@ public class ClassEstudo {
             system.debug('Teste Quatro');
 			system.debug('Teste Cinco');
 			system.deubg('Teste Merge Dois');
-			system.deubg('Sera que vai dar ruim?')':
-			system.deubg('Vai dar conflito');
         }
 }
